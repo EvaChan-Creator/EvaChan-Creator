@@ -1,60 +1,57 @@
-# 👩‍💼 Eva Chan | QA Lead • Automation Architect • Team Builder
 
-🧩 **QA Leadership meets Automation Engineering**  
-🔧 Transforming manual testing into scalable, reliable, and measurable systems.  
-📊 Designing test strategies and leading teams to deliver quality in AI & FinTech.
+# 💼 Eva Chan – QA Automation Engineer | AI & FinTech Specialist
 
----
+Hi, I'm **Eva**, a QA project lead and senior automation engineer with 4+ years of experience in:
 
-## 💼 About Me
+🔐 AI Facial Recognition & eKYC Solutions for security and FinTech  
+⚙️ Python-based automation using Selenium, Appium, Pytest  
+📱 Cross-platform testing on Windows, Android, iOS, IoT/AIoT  
+🚀 Test strategy design, SDK/API integration, and process optimization  
 
-Hi! I’m Eva — a **Senior QA Engineer & Testing Project Lead** with 4+ years of experience in:
-- 🧭 Leading **cross-functional test teams** and task prioritization
-- 🏗 Building **Python-based automation frameworks** for SDKs and APIs
-- 📋 Designing test strategies and onboarding systems for QA teams
-- 🔄 Improving release pipelines with CI tools and process optimization
-
-🎯 My goal is to bridge QA engineering with strategic leadership — empowering teams, accelerating delivery, and ensuring excellence in every release.
+I love turning complex system testing into **streamlined, maintainable automation frameworks** that accelerate release cycles and enhance product quality.
 
 ---
 
-## 📚 Core Competencies
+## 🧪 Highlighted Projects
 
-🛠 **Automation Engineering**
-- Selenium, Appium, Pytest (for UI, API, and cross-platform testing)
-- Jenkins & GitHub Actions for CI/CD
-- Performance testing with JMeter
-
-📈 **QA Strategy & Leadership**
-- Built & led a team of 4+ testers in concurrent AI/FinTech projects
-- Designed a modular QA training program with 40+ internal materials
-- Implemented task tracking, reducing communication gaps by 50%
-- Supported 10+ enterprise clients with tailored QA support and reports
-
-📂 **Process & Tools**
-- Git, Docker, Android Studio, Xcode for testing integration
-- Red Hat, VMware for environment management
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [`sdk-automation-framework`](https://github.com/YOUR_USERNAME/sdk-automation-framework) | Modular test automation for Windows/Android SDKs | Python, Pytest, Appium |
+| [`web-api-automation`](https://github.com/YOUR_USERNAME/web-api-automation) | End-to-end test framework for web & API systems | Selenium, Requests, JMeter |
+| [`fintech-system-testing`](https://github.com/YOUR_USERNAME/fintech-system-testing) | Scalable test scenarios for FinTech systems (load balancer, encryption, DB) | Docker, SQL, HTTPS API |
 
 ---
 
-## 📁 Featured Projects
+## 🔧 Side Projects
 
-| Project | Role | Highlights |
-|--------|------|------------|
-| [`sdk-automation-framework`](https://github.com/YOUR_USERNAME/sdk-automation-framework) | Architect & Lead | Cross-platform SDK test framework (Windows/Android) |
-| [`web-api-automation`](https://github.com/YOUR_USERNAME/web-api-automation) | Test Designer | Role-based access, API load testing, UI regression |
-| [`fintech-system-testing`](https://github.com/YOUR_USERNAME/fintech-system-testing) | System QA Lead | Integration testing of server, encryption, DB |
-| [`facial-verification-demo`](https://github.com/YOUR_USERNAME/facial-verification-demo) | Developer | Demo simulating eKYC pipeline using Flask |
-| [`e2e-testing-sample`](https://github.com/YOUR_USERNAME/e2e-testing-sample) | Workflow Builder | One-click end-to-end test & report system |
+- [`facial-verification-demo`](https://github.com/YOUR_USERNAME/facial-verification-demo)  
+  Flask-based app simulating facial authentication with testing coverage.
+
+- [`e2e-testing-sample`](https://github.com/YOUR_USERNAME/e2e-testing-sample)  
+  One-click workflow: build, initialize DB, run tests, export reports.
 
 ---
 
-## 🔗 Connect With Me
+## 📚 Resources
 
-📧 Email: zihsinchan0819@gmail.com  
-🌍 LinkedIn: [linkedin.com/in/YOUR_LINKEDIN_ID](https://www.linkedin.com/in/YOUR_LINKEDIN_ID)  
-📍 New Taipei, Taiwan
+- [`test-strategy-template`](https://github.com/YOUR_USERNAME/test-strategy-template):  
+  My template for designing modular, compliant test plans.
 
-> *“I believe great QA isn’t just about testing — it’s about enabling teams to release with confidence.”*
+- [`onboarding-training-materials`](https://github.com/YOUR_USERNAME/onboarding-training-materials):  
+  Materials I created to train and onboard new QA testers.
 
 ---
+
+## 📫 Contact
+
+📍 New Taipei, Taiwan  
+📧 zihsinchan0819@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_ID)
+
+---
+
+## 💡 Tech Badges
+
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Selenium](https://img.shields.io/badge/Selenium-Automation-brightgreen)
+![QA-Leadership](https://img.shields.io/badge/QA-Team_Lead-orange)
