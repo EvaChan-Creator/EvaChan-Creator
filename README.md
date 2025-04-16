@@ -24,7 +24,7 @@ I love turning complex system testing into **streamlined, maintainable automatio
 
 ## 🔧 Side Projects
 
-- [`facial-verification-demo`](https://github.com/YOUR_USERNAME/facial-verification-demo)  
+- [`facial-verification-demo`](https://github.com/EvaChan-Creator/Side-Projects/tree/master/facial-verification-demo)  
   Flask-based app simulating facial authentication with testing coverage.
 
 - [`e2e-testing-sample`](https://github.com/YOUR_USERNAME/e2e-testing-sample)  
